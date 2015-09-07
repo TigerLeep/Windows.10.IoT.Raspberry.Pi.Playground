@@ -1,0 +1,9 @@
+/ignoreAccessChecks
+/metadataFile "C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\MyHelloWorld\MyHelloWorld\obj\ARM\Release\ilc\intermediate\ILTransformed\MyHelloWorld.metadata"
+/reflectionMetadataAssemblyName "System.Private.CoreLib"
+/o
+/sharedGenerics
+/ilmergeinfo "C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\MyHelloWorld\MyHelloWorld\obj\ARM\Release\ilc\intermediate\ILTransformed\MyHelloWorld.csv"
+/sharedGenericsMode StandardHeuristics
+/in "C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\MyHelloWorld\MyHelloWorld\obj\ARM\Release\ilc\intermediate\ILTransformed\MyHelloWorld.ilexe"
+/out "C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\MyHelloWorld\MyHelloWorld\obj\ARM\Release\ilc\intermediate\MDIL\MyHelloWorld.mdilexe"

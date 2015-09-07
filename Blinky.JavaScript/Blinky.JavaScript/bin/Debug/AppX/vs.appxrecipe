@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>NEONANTWERP</Machine>
+    <WindowsUser>Leep</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>b62c4ce5-8978-47ba-b329-d579ab65d90f</PackageIdentityName>
+    <IntermediateOutputPath>C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>A031675E3C7AE5C12CB1248F69E2C9110BCFA081E2C1FE55FB75FFE92DFEC7C9</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>b62c4ce5-8978-47ba-b329-d579ab65d90f_1.0.0.0_neutral__3e1tqk2ntzwa4</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>b62c4ce5-8978-47ba-b329-d579ab65d90f_3e1tqk2ntzwa4!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>b62c4ce5-8978-47ba-b329-d579ab65d90f</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Leep</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-28T03:58:57.021</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2015-08-28T04:00:42.406</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-06-05T02:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <Modified>2015-06-05T02:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <Modified>2015-06-05T02:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <Modified>2015-06-05T02:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <Modified>2015-06-05T02:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <Modified>2015-06-05T02:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <Modified>2015-06-05T02:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2015-06-16T21:50:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\WinJS\js\en-US\ui.strings.js">
+      <PackagePath>WinJS\js\en-US\ui.strings.js</PackagePath>
+      <Modified>2015-06-05T02:32:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\WinJS\js\base.js">
+      <PackagePath>WinJS\js\base.js</PackagePath>
+      <Modified>2015-06-24T03:36:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\WinJS\js\ui.js">
+      <PackagePath>WinJS\js\ui.js</PackagePath>
+      <Modified>2015-06-24T03:36:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2015-06-05T02:32:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\WinJS\css\ui-dark.css">
+      <PackagePath>WinJS\css\ui-dark.css</PackagePath>
+      <Modified>2015-06-24T03:36:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\WinJS\css\ui-light.css">
+      <PackagePath>WinJS\css\ui-light.css</PackagePath>
+      <Modified>2015-06-24T03:36:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\WinJS\fonts\Symbols.ttf">
+      <PackagePath>WinJS\fonts\Symbols.ttf</PackagePath>
+      <Modified>2015-06-05T02:32:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-08-28T03:58:56.887</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

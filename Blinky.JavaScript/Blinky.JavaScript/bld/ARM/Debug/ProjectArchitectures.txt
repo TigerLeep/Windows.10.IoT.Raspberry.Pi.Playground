@@ -1,0 +1,1 @@
+C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\Blinky.JavaScript.jsproj;arm

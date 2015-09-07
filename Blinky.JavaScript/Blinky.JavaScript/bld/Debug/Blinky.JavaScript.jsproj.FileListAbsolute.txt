@@ -1,0 +1,16 @@
+C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\bin\Debug\ReverseMap\resources.pri
+C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\bin\Debug\AppxManifest.xml
+C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\bin\Debug\Blinky.JavaScript.build.appxrecipe
+C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\bld\Debug\ResourceHandlingTask.state
+C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\bld\Debug\priconfig.xml
+C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\bld\Debug\priconfig.xml.intermediate
+C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\bld\Debug\layout.resfiles
+C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\bld\Debug\layout.resfiles.intermediate
+C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\bld\Debug\resources.resfiles
+C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\bld\Debug\resources.resfiles.intermediate
+C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\bld\Debug\pri.resfiles
+C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\bld\Debug\pri.resfiles.intermediate
+C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\bld\Debug\qualifiers.txt
+C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\bld\Debug\qualifiers.txt.intermediate
+C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\bld\Debug\ProjectArchitectures.txt

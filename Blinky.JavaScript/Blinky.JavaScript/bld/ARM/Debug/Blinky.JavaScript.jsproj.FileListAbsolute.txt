@@ -1,0 +1,16 @@
+C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\bin\ARM\Debug\ReverseMap\resources.pri
+C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\bin\ARM\Debug\AppxManifest.xml
+C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\bin\ARM\Debug\Blinky.JavaScript.build.appxrecipe
+C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\bld\ARM\Debug\ResourceHandlingTask.state
+C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\bld\ARM\Debug\priconfig.xml
+C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\bld\ARM\Debug\priconfig.xml.intermediate
+C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\bld\ARM\Debug\layout.resfiles
+C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\bld\ARM\Debug\layout.resfiles.intermediate
+C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\bld\ARM\Debug\resources.resfiles
+C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\bld\ARM\Debug\resources.resfiles.intermediate
+C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\bld\ARM\Debug\pri.resfiles
+C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\bld\ARM\Debug\pri.resfiles.intermediate
+C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\bld\ARM\Debug\qualifiers.txt
+C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\bld\ARM\Debug\qualifiers.txt.intermediate
+C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\bld\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Projects\Windows.10.IoT.Core.Raspberry.Pi\Playground\Blinky.JavaScript\Blinky.JavaScript\bld\ARM\Debug\ProjectArchitectures.txt
