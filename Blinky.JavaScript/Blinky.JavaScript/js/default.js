@@ -1,6 +1,4 @@
-﻿// For an introduction to the Blank template, see the following documentation:
-// http://go.microsoft.com/fwlink/?LinkId=232509
-(function () {
+﻿(function () {
 	"use strict";
 
 	var app = WinJS.Application;
@@ -14,8 +12,8 @@
 	var _ledOn = false;
 	var _pin = null;
 	var _timer = null;
-	var _status = null;
-	var _header = null;
+	var _statusElement = null;
+	var _headerElement = null;
 
 
 	app.onactivated = function (args) {
@@ -28,10 +26,11 @@
 				// To create a smooth user experience, restore application state here so that it looks like the app never stopped running.
 			}
 			args.setPromise(WinJS.UI.processAll());
+
 			var toggleButton = document.getElementById("ToggleButton");
 			toggleButton.addEventListener("click", toggleButtonClickHandler, false);
-			_status = document.getElementById("Status");
-			_header = document.getElementById("Header");
+			_statusElement = document.getElementById("Status");
+			_headerElement = document.getElementById("Header");
 		}
 	};
 
@@ -84,23 +83,23 @@
 	    if (_ledOn)
 	    {
 	        pinState = gpio.GpioPinValue.low;
-	        removeClassName("off", _header);
-	        addClassName("on", _header);
+	        removeClassName("off", _headerElement);
+	        addClassName("on", _headerElement);
 	    }
 	    else
 	    {
 	        pinState = gpio.GpioPinValue.high;
-	        removeClassName("on", _header);
-	        addClassName("off", _header);
+	        removeClassName("on", _headerElement);
+	        addClassName("off", _headerElement);
         }
 	    _pin.write(pinState);
 	}
 
 	function setStatus(status)
 	{
-	    if (_status != null)
+	    if (_statusElement != null)
 	    {
-	        _status.innerText = status;
+	        _statusElement.innerText = status;
 	    }
 	}
 

@@ -31,9 +31,9 @@
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
         <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
-            <Ellipse x:Name="LED" Fill="LightGray" Stroke="White" Width="100" Height="100" Margin="10"/>
-            <TextBlock x:Name="DelayText" Text="500ms" Margin="10" TextAlignment="Center" FontSize="26.667" />
-            <TextBlock x:Name="GpioStatus" Text="Waiting to initialize GPIO..." Margin="10,50,10,10" TextAlignment="Center" FontSize="26.667" />
+            <Ellipse x:Name="LED" Fill="LightGray" Stroke="White" Width="200" Height="200" Margin="20"/>
+            <TextBlock x:Name="DelayText" Text="500ms" Margin="10" TextAlignment="Center" FontSize="55" />
+            <TextBlock x:Name="GpioStatus" Text="Waiting to initialize GPIO..." Margin="10,50,10,10" TextAlignment="Center" FontSize="55" />
         </StackPanel>
     </Grid>
 </Page>
