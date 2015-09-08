@@ -29,8 +29,8 @@
 
 			var toggleButton = document.getElementById("ToggleButton");
 			toggleButton.addEventListener("click", toggleButtonClickHandler, false);
-			_statusElement = document.getElementById("Status");
 			_headerElement = document.getElementById("Header");
+			_statusElement = document.getElementById("Status");
 		}
 	};
 

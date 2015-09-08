@@ -69,13 +69,13 @@ namespace PiGlow.CS
 
                 await Pulsate(
                     device,
-                    brightness: 255,
+                    brightness: 64,
                     numberOfPulses: 3,
                     speedOfPulses: 100);
 
                 await Pinwheel(
                     device,
-                    brightness: 255,
+                    brightness: 64,
                     numberOfSpins: 5,
                     speedOfSpin: 300);
 
